@@ -18,9 +18,7 @@
 ### Create scoreboard variables:
 In order for Treasure Trove to work properly, you will need to initialize some scoreboard variables. To do so, simply run each of these commands (i.e. paste into the chat):
 
-```
-/scoreboard objectives add sMobKills stat.mobKills
-```
+    /scoreboard objectives add sMobKills stat.mobKills
 
 ## Documentation
 You can find documentation within [`treasuretrove/docs`](treasuretrove/docs).
